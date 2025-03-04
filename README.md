@@ -3,7 +3,7 @@
 This project involves using a deep learning model to predict bounding boxes around objects in images. The task is part of an assignment where transfer learning is applied to a pre-trained model to enhance the accuracy of object localization.
 
 ## Dataset
-- The dataset used is the [Caltech Birds - 2010](http://www.vision.caltech.edu/visipedia/CUB-200.html).
+- The dataset used is the Caltech Birds - 2010.
 - It consists of bird images along with labeled bounding boxes.
 - The dataset is preprocessed and used to fine-tune a model for object detection.
 
